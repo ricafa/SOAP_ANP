@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP_ANP", "SOAP_ANP.csproj", "{A89C8590-6C19-4A99-AC03-8360A027CDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89C8590-6C19-4A99-AC03-8360A027CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89C8590-6C19-4A99-AC03-8360A027CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89C8590-6C19-4A99-AC03-8360A027CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89C8590-6C19-4A99-AC03-8360A027CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDF16BE-8533-4AB1-9219-7BBB4054DD1D}
+	EndGlobalSection
+EndGlobal
